@@ -1,0 +1,32 @@
+_repo: As-We-Are-and-As-We-May-Be_14191
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Besant, Walter
+    aliases:
+    - Maurice, Walter
+    - Besant, Sir Walter
+    birthdate: 1836
+    deathdate: 1901
+    gutenberg_agent_id: '5404'
+    url: http://www.gutenberg.org/2009/agents/5404
+    wikipedia: http://en.wikipedia.org/wiki/Walter_Besant
+description: ''
+gutenberg_issued: '2004-11-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14191'
+  lccn: '03020204'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Description and travel'
+- !lcc 'PR'
+- !lcsh 'Social problems'
+title: As We Are and As We May Be
+url: http://www.gutenberg.org/ebooks/14191
